@@ -1,0 +1,31 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: rgb(223, 223, 223);
+    color: white;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 270px; 
+}
+
+.emotion_name
+{
+  font-size: 40px;
+
+}
+.emoji
+{
+  font-size:48px;
+  
+}
+#heading{
+  font-size: 30px;
+  
+}
